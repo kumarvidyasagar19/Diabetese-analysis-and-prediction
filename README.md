@@ -3,12 +3,6 @@
 
 A brief description of what this project does and who it's for
 ## 1. Data preprocessing
-
-
-
-
-
-
  - Missing and null values handling
  - Correlation testing
  - Feature extraction
@@ -37,4 +31,11 @@ I have used 4 algorithms
   - Logistic Regression
   - K-nearest neighbour (KNN)
   - Artficial neural network (ANN)
+
+* Artificial neural network giving best accuaracy
+  ![neural network](https://github.com/kumarvidyasagar19/Diabetese-analysis-and-prediction/assets/107400026/5e95a67e-168b-4823-8846-372b5422a440)
+
+### contributor:
+Vidyasagar Kumar: kvidya.ece@gmail.com
+
 
