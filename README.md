@@ -32,35 +32,9 @@ A brief description of what this project does and who it's for
 ## 5. Find the significant health index of diabetic patients.
 
 ## 6. Develop a suitable model of diabetic patients.
-I have used 4 model to test which model giving maximum score on testing data.
+I have used 4 algorithms
   - Linear Regression
   - Logistic Regression
   - K-nearest neighbour (KNN)
   - Artficial neural network (ANN)
-![Logo](https://github.com/kumarvidyasagar19/Diabetese-analysis-and-prediction/blob/main/download.png)
-
-## Appendix
-
-Any additional information goes here
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
 
